@@ -1,5 +1,4 @@
 import qrcode
-from pyzbar.pyzbar import  decode
 from PIL import Image,ImageTk
 import tkinter as tk
 from tkinter import *
